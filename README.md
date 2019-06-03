@@ -5,4 +5,4 @@ It also keeps track of how many faces you already submitted.
 
 Feel free to register and try the app at https://smart-brain-jakubkoje.herokuapp.com/
 
-![alt text](https://imgur.com/QoW3vPf)
+![alt text](https://imgur.com/QoW3vPf.png)
